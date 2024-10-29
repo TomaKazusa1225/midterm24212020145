@@ -1,7 +1,7 @@
 # midterm24212020145
 
 ## 概述
-基于 Wikitext 数据集微调 GPT-2 语言模型，使用了google colab进行训练，脚本中的部分文件路径需要更改。
+基于 Wikitext 数据集微调 GPT-2 语言模型，使用了google colab进行训练，脚本中的部分文件路径需要更改，需要transformers，datasets，torch。
 
 ## 文件说明
 - **`googletrain.py`**：训练模型的脚本。
